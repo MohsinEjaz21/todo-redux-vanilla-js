@@ -48,3 +48,11 @@ npm start
 ```
 
 Visit [localhost:8000](localhost:8000) in your browser.
+
+<!-- Git common commands -->
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin
+git push -u origin master
